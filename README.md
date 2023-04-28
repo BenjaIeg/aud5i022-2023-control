@@ -14,6 +14,15 @@
     
 - circuito
 
+-Para facilitar el proceso de hacer las conecciones vamos a conectar los 5v y un gnd del arduino a los positivos y negativos de la protoboard
+
+-los leds deben colocarse en la protoboard y conectar sus polos negativos con resistencias al negativo de la protoboard
+
+-los positivos de los leds los conectaremos a los pines digitales 13,12 y 11.
+
+-conectaremos la primera patita del potenciometro a 5v y la ultima a gnd, mientras que la patita de al medio debe conectarse al pin A0 del arduino
+
+-El boton lo pondremos al final de la protoboard para que sea más facil presionarlo sin tomar con ninguno de los cables
 
 - código
 
