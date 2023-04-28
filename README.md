@@ -11,7 +11,10 @@
     2 led rojos
     1 led verde
     9 cables
+    
 - circuito
+
+
 - código
 
 // Desarrollador por: Benjamin Espinoza, Diego López, Antonia en FAU U de   Chile
@@ -83,19 +86,6 @@ void loop() {
   Serial.println(pot_value);
 }
 - imágenes
-
-Intento 1
-![alt](Foto1.jpg)
-![alt](Foto2.jpg)
-
-Intento 2
-![alt](Foto3.jpg)
-![alt](Foto4.jpg)
-
-Intento final y correcto
-![alt](Foto5.jpg)
-![alt](Foto6.jpg)
-
 - conclusiones
 
 El uso del potenciador fue todo un desafio, pues no usamos su cualidad como resistor si no como perilla en cuanto a la velocidad de las luces intermitentes.
